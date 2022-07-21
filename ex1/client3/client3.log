@@ -1,0 +1,14 @@
+2022-07-21 11:43:25.872  INFO 16717 --- [main] com.demo.client3.Client3Application      : Starting Client3Application using Java 17.0.3 on Macintosh.local with PID 16717 (/Users/artmac/Desktop/project/SpringBootAdminExam/ex1/client3/target/classes started by artmac in /Users/artmac/Desktop/project/SpringBootAdminExam/ex1/client3)
+2022-07-21 11:43:25.873  INFO 16717 --- [main] com.demo.client3.Client3Application      : No active profile set, falling back to 1 default profile: "default"
+2022-07-21 11:43:26.325  INFO 16717 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5300 (http)
+2022-07-21 11:43:26.329  INFO 16717 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-21 11:43:26.329  INFO 16717 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-21 11:43:26.363  INFO 16717 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-21 11:43:26.363  INFO 16717 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 470 ms
+2022-07-21 11:43:26.565  INFO 16717 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-21 11:43:26.583  INFO 16717 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5300 (http) with context path ''
+2022-07-21 11:43:26.591  INFO 16717 --- [main] com.demo.client3.Client3Application      : Started Client3Application in 1.121 seconds (JVM running for 1.366)
+2022-07-21 11:43:26.652  INFO 16717 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as 96776724c28a
+2022-07-21 11:43:26.666  INFO 16717 --- [http-nio-5300-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-21 11:43:26.666  INFO 16717 --- [http-nio-5300-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-21 11:43:26.666  INFO 16717 --- [http-nio-5300-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms

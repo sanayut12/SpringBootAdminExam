@@ -1,0 +1,28 @@
+2022-07-21 11:29:39.404  INFO 16468 --- [main] com.demo.client1.Client1Application      : Starting Client1Application using Java 17.0.3 on Macintosh.local with PID 16468 (/Users/artmac/Desktop/project/SpringBootAdminExam/ex1/client1/target/classes started by artmac in /Users/artmac/Desktop/project/SpringBootAdminExam/ex1/client1)
+2022-07-21 11:29:39.405  INFO 16468 --- [main] com.demo.client1.Client1Application      : No active profile set, falling back to 1 default profile: "default"
+2022-07-21 11:29:39.842  INFO 16468 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5100 (http)
+2022-07-21 11:29:39.847  INFO 16468 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-21 11:29:39.847  INFO 16468 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-21 11:29:39.881  INFO 16468 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-21 11:29:39.881  INFO 16468 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 457 ms
+2022-07-21 11:29:40.094  INFO 16468 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-21 11:29:40.111  INFO 16468 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5100 (http) with context path ''
+2022-07-21 11:29:40.119  INFO 16468 --- [main] com.demo.client1.Client1Application      : Started Client1Application in 1.128 seconds (JVM running for 1.392)
+2022-07-21 11:29:40.271  INFO 16468 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as 5fb60e884908
+2022-07-21 11:29:40.324  INFO 16468 --- [http-nio-5100-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-21 11:29:40.324  INFO 16468 --- [http-nio-5100-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-21 11:29:40.325  INFO 16468 --- [http-nio-5100-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-07-21 11:33:43.462  INFO 16563 --- [main] com.demo.client1.Client1Application      : Starting Client1Application using Java 17.0.3 on Macintosh.local with PID 16563 (/Users/artmac/Desktop/project/SpringBootAdminExam/ex1/client1/target/classes started by artmac in /Users/artmac/Desktop/project/SpringBootAdminExam/ex1/client1)
+2022-07-21 11:33:43.464  INFO 16563 --- [main] com.demo.client1.Client1Application      : No active profile set, falling back to 1 default profile: "default"
+2022-07-21 11:33:43.930  INFO 16563 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5100 (http)
+2022-07-21 11:33:43.934  INFO 16563 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-21 11:33:43.934  INFO 16563 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-21 11:33:43.967  INFO 16563 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-21 11:33:43.968  INFO 16563 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 467 ms
+2022-07-21 11:33:44.202  INFO 16563 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-07-21 11:33:44.222  INFO 16563 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5100 (http) with context path ''
+2022-07-21 11:33:44.229  INFO 16563 --- [main] com.demo.client1.Client1Application      : Started Client1Application in 0.952 seconds (JVM running for 1.124)
+2022-07-21 11:33:44.293  INFO 16563 --- [registrationTask1] d.c.b.a.c.r.ApplicationRegistrator       : Application registered itself as 5fb60e884908
+2022-07-21 11:33:44.304  INFO 16563 --- [http-nio-5100-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-21 11:33:44.305  INFO 16563 --- [http-nio-5100-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-21 11:33:44.305  INFO 16563 --- [http-nio-5100-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
